@@ -24,13 +24,16 @@ export default function Navbar() {
            <a href="#" className="text-white hover:text-gray-200">Home</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">About</a>
+            <a href="#" className="text-white hover:text-gray-200">shoes</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Services</a>
+            <a href="#" className="text-white hover:text-gray-200">cart</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Contact</a>
+            <a href="#" className="text-white hover:text-gray-200">sign in</a>
+          </li>
+          <li>
+            <a href="#" className="text-white hover:text-gray-200">sign up</a>
           </li>
         </ul>
     </div>
