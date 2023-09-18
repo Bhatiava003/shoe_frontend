@@ -18,22 +18,22 @@ export default function Navbar() {
           </button> 
         </div>
 
-{/* Navigation List */}
-<ul className="hidden md:flex space-x-4 ml-2">
-  <li>
-    <a href="#" className="text-white hover:text-gray-200">Home</a>
-  </li>
-  <li>
-    <a href="#" className="text-white hover:text-gray-200">About</a>
-  </li>
-  <li>
-    <a href="#" className="text-white hover:text-gray-200">Services</a>
-  </li>
-  <li>
-    <a href="#" className="text-white hover:text-gray-200">Contact</a>
-  </li>
-</ul>
-</div>
-</nav>
+        {/* Navigation List */}
+        <ul className="hidden md:flex space-x-4 ml-2">
+          <li>
+           <a href="#" className="text-white hover:text-gray-200">Home</a>
+          </li>
+          <li>
+            <a href="#" className="text-white hover:text-gray-200">About</a>
+          </li>
+          <li>
+            <a href="#" className="text-white hover:text-gray-200">Services</a>
+          </li>
+          <li>
+            <a href="#" className="text-white hover:text-gray-200">Contact</a>
+          </li>
+        </ul>
+    </div>
+    </nav>
   )
 }
