@@ -19,7 +19,7 @@ export default function Navbar() {
         </div>
 
         {/* Navigation List */}
-        <ul className="hidden md:flex space-x-4 ml-2">
+        <ul className="hidden md:flex space-x-4 ml-0.5">
           <li>
            <a href="#" className="text-white hover:text-gray-200">Home</a>
           </li>
