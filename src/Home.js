@@ -21,7 +21,7 @@ function Home() {
   };
 
   const backgroundImageStyle3 = {
-    backgroundImage: 'url("https://images.unsplash.com/photo-1620001151082-88078e619216?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTE2fHxQSVpaQXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60")',
+    backgroundImage: 'url("https://images.unsplash.com/photo-1530389912609-9a007b3c38a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
@@ -34,10 +34,16 @@ function Home() {
         
       </div>
 
-      <div className="btn" style={backgroundImageStyle2}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen opacity-80" style={backgroundImageStyle2}>
         
         
       </div>
+
+      <div className="bg-cover bg-no-repeat bg-center h-screen opacity-80" style={backgroundImageStyle3}>
+
+      </div>
+
+      
 
 
 
