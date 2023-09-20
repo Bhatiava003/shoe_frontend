@@ -44,7 +44,7 @@ function Home() {
       </span>
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4" style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle3}>
 
       </div>
 
