@@ -47,6 +47,7 @@ function Home() {
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle3}>
 
       </div>
+      <div className="text-black text-10xl dark:text pt-56 font black"> We Have Awsome Variety In Reebok Shoes </div>
 
       
 
