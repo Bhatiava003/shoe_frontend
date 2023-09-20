@@ -39,7 +39,7 @@ function Home() {
         
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4" style={backgroundImageStyle3}>
 
       </div>
 
