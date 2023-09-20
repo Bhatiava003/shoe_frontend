@@ -39,7 +39,7 @@ function Home() {
            
       </div>
 
-      <span className='w-3/6 ml-5 text-red-800 text-6xl dark:text-white pt-56 font-black'>
+      <span className='w-3/6 ml-5 text-red-800 text-4xl dark:text-white pt-56 font-black'>
           Nike Air Force 1 x Carhartt WIP
       </span>
       </div>
