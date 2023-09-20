@@ -34,9 +34,14 @@ function Home() {
         
       </div>
 
+      <div className=' flex flex-row'>
       <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4" style={backgroundImageStyle2}>
-        
-        
+           
+      </div>
+
+      <span className='w-3/6 text-red-800 text-6xl dark:text-white pt-56 font-black'>
+          Nike Air Force 1 x Carhartt WIP
+      </span>
       </div>
 
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4" style={backgroundImageStyle3}>
