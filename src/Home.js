@@ -34,12 +34,12 @@ function Home() {
         
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen " style={backgroundImageStyle2}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-1 " style={backgroundImageStyle2}>
         
         
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-1" style={backgroundImageStyle3}>
 
       </div>
 
