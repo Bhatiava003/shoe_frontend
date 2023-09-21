@@ -42,7 +42,7 @@ function Home() {
       </div>
 
       <div className=' flex flex-row'>
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4" style={backgroundImageStyle2}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 mr-auto" style={backgroundImageStyle2}>
            
       </div>
 
