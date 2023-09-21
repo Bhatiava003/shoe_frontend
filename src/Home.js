@@ -67,11 +67,11 @@ function Home() {
       <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 p-6 " style={backgroundImageStyle3}>
            
       </div>
-      <span className='  w-1/2 text-black text-5xl dark:text-white pt-56 font-black  '>
+      <span className='  w-1/2 text-black text-5xl dark:text-white pt-56 text-left font-black  '>
         AIR Jordans 1
       </span>
-       <div className="mt-56 pr-14">
-        <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'> Buy Now </button>
+       <div className="mt-56">
+        <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl text-left'> Buy Now </button>
        </div>
 
       </div>
