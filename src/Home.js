@@ -55,7 +55,7 @@ function Home() {
        </div>
       </div>
 
-      <div className="bg-amber-300 bg-no-repeat bg-center h-screen w-3/6 mt-4 ml-auto " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 ml-auto opacity-100 " style={backgroundImageStyle3}>
            
       </div>
 
