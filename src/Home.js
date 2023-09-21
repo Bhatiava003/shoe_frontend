@@ -21,6 +21,13 @@ function Home() {
   };
 
   const backgroundImageStyle3 = {
+    backgroundImage: 'url("https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80")',
+    backgroundSize: 'cover',
+    backgroundRepeat: 'no-repeat',
+    backgroundPosition: 'center',
+  };
+
+  const backgroundImageStyle4 = {
     backgroundImage: 'url("https://images.unsplash.com/photo-1541597455068-49e3562bdfa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
@@ -47,8 +54,13 @@ function Home() {
         <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>Shop</button>
        </div>
       </div>
+
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4" style={backgroundImageStyle3}>
+           
+      </div>
+
       
-      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle4}>
 
       </div>
       <div className="text-black text-bold text-7xl dark:text ml-20 mb-10 font black"> We Have Awsome Variety In Reebok Shoes </div>
