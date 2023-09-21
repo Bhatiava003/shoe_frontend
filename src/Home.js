@@ -43,8 +43,8 @@ function Home() {
           Nike Air Force 1 x Carhartt WIP
       </span>
 
-       <div className="mt-64">
-        <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>Shop</button>
+       <div className="mt-80">
+        <button className='bg-blue-500 hover:bg-blue-700 bg-center text-white font-bold py-4 px-6 rounded-md text-4xl'>Shop</button>
        </div>
       </div>
       
