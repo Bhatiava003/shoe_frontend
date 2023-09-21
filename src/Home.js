@@ -37,8 +37,16 @@ function Home() {
   return (
     <>
       <div className="bg-cover bg-no-repeat bg-center h-screen opacity-80" style={backgroundImageStyle1}>
-        
-        
+        <div className='text-black text-6xl mt-auto ml-auto mr-auto '>
+            <span className="text-shadow-xl text-shadow-blue-dark">
+                Awesome white sneakers 
+            </span>
+        </div>
+        <div>
+            <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>
+                Shop
+            </button>
+        </div>
       </div>
 
       <div className=' flex flex-row'>
