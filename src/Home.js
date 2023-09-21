@@ -49,12 +49,12 @@ function Home() {
         </div>
       </div>
 
-      <div className=' flex flex-row'>
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 " style={backgroundImageStyle2}>
+      <div className=' flex flex-row justify-evely'>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 mr-auto " style={backgroundImageStyle2}>
            
       </div>
 
-      <span className='w-3/6 ml-8 text-black text-5xl dark:text-white pt-56 font-black'>
+      <span className='w-3/6 ml-8 text-black text-5xl text-right dark:text-white pt-56 font-black '>
           Nike Air Force 1 x Carhartt WIP
       </span>
 
