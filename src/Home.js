@@ -64,10 +64,10 @@ function Home() {
       </div>
 
       <div className='flex flex-row'>
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 ml-auto  " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 ml-auto  " style={backgroundImageStyle3}>
            
       </div>
-      <span className='  w-1/2 text-black text-5xl dark:text-white pt-56 font-black mr-auto '>
+      <span className='  w-1/2 text-black text-5xl dark:text-white pt-56 font-black  '>
         AIR Jordans 1
       </span>
        <div className="mt-56 mr-auto">
