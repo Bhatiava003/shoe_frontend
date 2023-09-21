@@ -63,14 +63,14 @@ function Home() {
        </div>
       </div>
 
-      <div className='flex flex-row'>
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 p-6 " style={backgroundImageStyle3}>
+      <div className='flex flex-row justify-evenly'>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 p-6 items-end " style={backgroundImageStyle3}>
            
       </div>
       <span className='  w-1/2 text-black text-5xl dark:text-white pt-56 text-left font-black  '>
         AIR Jordans 1
       </span>
-       <div className="mt-56">
+       <div className="mt-56 items-start">
         <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl text-left'> Buy Now </button>
        </div>
 
