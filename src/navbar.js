@@ -21,19 +21,19 @@ export default function Navbar() {
         {/* Navigation List */}
         <ul className="hidden md:flex space-x-4 mr-2">
           <li>
-           <a href="#" className="text-white hover:text-gray-200">Home</a>
+           <a href="#" className="text-white hover:text-red-600">Home</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Shoes</a>
+            <a href="#" className="text-white hover:text-red-600">Shoes</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Cart</a>
+            <a href="#" className="text-white hover:text-red-600">Cart</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Sign in</a>
+            <a href="#" className="text-white hover:text-red-600">Sign in</a>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-gray-200">Sign up</a>
+            <a href="#" className="text-white hover:text-red-600">Sign up</a>
           </li>
         </ul>
     </div>
