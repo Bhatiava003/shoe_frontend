@@ -21,7 +21,7 @@ function Home() {
   };
 
   const backgroundImageStyle3 = {
-    backgroundImage: 'url("https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80")',
+    backgroundImage: 'url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2b894584-ce57-467a-a3d7-e3ed5264d87e/air-jordan-1-mid-se-shoes-Q2sGS7.png")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
     backgroundPosition: 'center',
@@ -55,7 +55,7 @@ function Home() {
        </div>
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 ml-auto opacity-100 " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen w-3/6 mt-4 ml-auto  " style={backgroundImageStyle3}>
            
       </div>
 
