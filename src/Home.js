@@ -37,13 +37,13 @@ function Home() {
   return (
     <>
       <div className="bg-cover bg-no-repeat bg-center h-screen opacity-80" style={backgroundImageStyle1}>
-        <div className='text-cyan-600 text-6xl dark:text-white mt-auto mr-auto '>
+        <div className='text-cyan-600 text-6xl dark:text-white pt-52 '>
             <span className="text-shadow-xl text-shadow-blue-dark">
                 Awesome white sneakers 
             </span>
         </div>
         <div>
-            <button className='bg-black hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>
+            <button className='bg-yellow-400 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>
                 Shop
             </button>
         </div>
