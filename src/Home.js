@@ -39,11 +39,15 @@ function Home() {
            
       </div>
 
-      <span className='w-3/6 ml-8 text-red-800 text-5xl dark:text-white pt-56 font-black'>
+      <span className='w-3/6 ml-8 text-black text-5xl dark:text-white pt-56 font-black'>
           Nike Air Force 1 x Carhartt WIP
       </span>
-      </div>
 
+      <div className="pt-5">
+        <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-md text-4xl'>Shop</button>
+       </div>
+      </div>
+      
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle3}>
 
       </div>
