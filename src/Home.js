@@ -68,7 +68,6 @@ function Home() {
            
       </div>
       <span className=' '>
-        AIR Jordans 1
       </span>
        <div className="">
         <button className=''>  </button>
