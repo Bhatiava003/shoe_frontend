@@ -69,7 +69,7 @@ function Home() {
            
       </div>
        <div className="text-black text-6xl font-bold dark:text-white">
-       <span className='text-shadow-xl text-shadow-blue-dark'> AIR Jordans 1 </span>
+       <span className='text-shadow-xl text-shadow-blue-dark pl-50'> AIR Jordans 1 </span>
        </div>
 
      
