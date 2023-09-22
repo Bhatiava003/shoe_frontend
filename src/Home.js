@@ -64,16 +64,16 @@ function Home() {
        </div>
       </div>
 
-      <div className='flex flex-row justify-evenly'>
-      <div className="bg-cover bg-no-repeat bg-right h-screen w-1/2 mt-4 " style={backgroundImageStyle3}>
+      
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10 " style={backgroundImageStyle3}>
            
       </div>
-      <span className='w-1/2 text-5xl text-black text-left mr-auto pt-56'> Air Jordan 1 </span>
+      <span className='text-black text-6xl font-bold dark:text-white pt-52'> Air Jordan 1 </span>
        <div className="">
         <button className=''>  </button>
        </div>
 
-      </div>
+     
 
      
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle4}>
