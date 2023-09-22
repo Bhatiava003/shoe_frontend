@@ -82,10 +82,11 @@ function Home() {
 
       </div>
 
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 mr-auto " style={backgroundImageStyle4}>
+     <div className='flex flex-row'>
+     <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 " style={backgroundImageStyle4}>
            
-      </div>
-
+     </div>
+     </div>
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle5}>
 
       </div>
