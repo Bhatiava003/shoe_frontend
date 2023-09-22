@@ -19,16 +19,8 @@ function Home() {
     backgroundPosition: 'center',
     
   };
-
-  const backgroundImageStyle3 = {
-    backgroundImage: 'url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2b894584-ce57-467a-a3d7-e3ed5264d87e/air-jordan-1-mid-se-shoes-Q2sGS7.png")',
-    backgroundSize: 'cover',
-    backgroundRepeat: 'no-repeat',
-    backgroundPosition: 'center',
-  };
-
   
-  const backgroundImageStyle4 = {
+  const backgroundImageStyle3 = {
     backgroundImage: 'url("https://cdn.sanity.io/images/c1chvb1i/production/53fa76a8d1edbc69650a164e69d265265ce450d8-1100x735.jpg/reebok-classic-leather-2022-1.jpg")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
@@ -64,18 +56,8 @@ function Home() {
        </div>
       </div>
 
-      
-      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-5 " style={backgroundImageStyle3}>
-           
-      </div>
-       <div className="text-black text-6xl font-bold dark:text-white">
-       <span className='text-shadow-xl text-shadow-blue-dark ml-64'> AIR Jordans 1 </span>
-       </div>
-
      
-
-     
-      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle4}>
+      <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-10" style={backgroundImageStyle3}>
 
       </div>
       <div className="text-black text-bold text-7xl dark:text ml-20 mb-10 font black"> We Have Awesome Variety In Reebok Shoes </div>
