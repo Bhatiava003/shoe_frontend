@@ -16,7 +16,7 @@ function Home() {
     backgroundImage: 'url("https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
-    backgroundPosition: 'center',
+    backgroundPosition: 'left',
     
   };
 
@@ -24,14 +24,14 @@ function Home() {
     backgroundImage: 'url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2b894584-ce57-467a-a3d7-e3ed5264d87e/air-jordan-1-mid-se-shoes-Q2sGS7.png")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
-    backgroundPosition: 'center',
+    backgroundPosition: 'right',
   };
 
   const backgroundImageStyle4 = {
     backgroundImage: 'url("https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/99af6dea-fbad-43d0-983b-ac3197a4ea70/air-jordan-1-mid-shoes-86f1ZW.png")',
     backgroundSize: 'cover',
     backgroundRepeat: 'no-repeat',
-    backgroundPosition: 'center',
+    backgroundPosition: 'left',
   };
 
   const backgroundImageStyle5 = {
