@@ -65,10 +65,10 @@ function Home() {
       </div>
 
       <div className='flex flex-row justify-evenly'>
-      <div className="bg-cover bg-no-repeat bg-center h-screen w-1/2 mt-4 ml-auto " style={backgroundImageStyle3}>
+      <div className="bg-cover bg-no-repeat bg-right h-screen w-1/2 mt-4 ml-auto " style={backgroundImageStyle3}>
            
       </div>
-      <span className='w-1/2 text-5xl text-black text-left'> Air Jordan 1 </span>
+      <span className='w-1/2 text-5xl text-black text-left mr-auto'> Air Jordan 1 </span>
        <div className="">
         <button className=''>  </button>
        </div>
