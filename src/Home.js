@@ -68,9 +68,8 @@ function Home() {
       <div className="bg-cover bg-no-repeat bg-center h-screen mt-4 mb-6 " style={backgroundImageStyle3}>
            
       </div>
-      <span className='text-black text-6xl font-bold dark:text-white p'> Air Jordan 1 </span>
-       <div className="">
-        <button className=''>  </button>
+       <div className="text-black text-6xl font-bold dark:text-white mt-auto">
+       <span className='text-shadow-xl text-shadow-blue-dark'> Air Jordans 1  </span>
        </div>
 
      
