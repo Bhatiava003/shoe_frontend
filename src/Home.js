@@ -29,7 +29,7 @@ function Home() {
   return (
     <>
       <div className="bg-cover bg-no-repeat bg-center h-screen opacity-80" style={backgroundImageStyle1}>
-        <div className='text-cyan-600 text-6xl dark:text-white pt-52 '>
+        <div className='text-cyan-600 text-6xl font-bold dark:text-white pt-52 '>
             <span className="text-shadow-xl text-shadow-blue-dark">
                 Awesome white sneakers 
             </span>
