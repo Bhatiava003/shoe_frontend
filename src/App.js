@@ -1,5 +1,5 @@
 import './App.css';
-import Home from  './Home'
+import Home from  './Home';
 import Navbar from './navbar';
 import Footer from './footer';
 
@@ -9,9 +9,14 @@ import Footer from './footer';
 function App() {
   return (
     <>
-      <Navbar />
-      <Home />
-      <Footer />
+    <Router>
+      <Switch>
+        <Route path="home" exact component={Home} />
+      </Switch>
+    </Router>
+    <Navbar />
+    <Home />
+    <Footer />
     </>
   );
 }

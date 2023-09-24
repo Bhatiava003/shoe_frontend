@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 export default function Navbar() {
   return (
     <nav className="bg-teal-700 p-4">
