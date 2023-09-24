@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 
 export default function Navbar() {
@@ -21,14 +22,20 @@ export default function Navbar() {
 
         {/* Navigation List */}
         <ul className="hidden md:flex space-x-4 mr-2">
-          <li>
-           <a href="#" className="text-white hover:text-red-600">Home</a>
+        <li>
+          <Link to="/home" className="text-white hover:text-red-600">
+            Home
+          </Link>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-red-600">Shoes</a>
+          <Link to="/shoes" className="text-white hover:text-red-600">
+            Shoes
+          </Link>
           </li>
           <li>
-            <a href="#" className="text-white hover:text-red-600">Cart</a>
+          <Link to="/cart" className="text-white hover:text-red-600">
+            Cart
+          </Link>
           </li>
           <li>
             <a href="#" className="text-white hover:text-red-600">Sign in</a>

@@ -1,23 +1,30 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
-import Home from  './Home';
 import Navbar from './navbar';
-import Footer from './footer';
+import Home from './Home';
+import Shoes from './shoes';
+import Cart from './cart';
+
 
 
 
 
 function App() {
   return (
-    <>
     <Router>
-      <Switch>
-        <Route path="home" exact component={Home} />
-      </Switch>
+      <div className="App">
+        <Navbar />
+        <div>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/home" element={<Home />} />
+          <Route path="/shoes" element={<Shoes />} />
+          <Route path="/cart" element={<Cart />} />
+        </Routes>
+        </div>
+      </div>
     </Router>
-    <Navbar />
-    <Home />
-    <Footer />
-    </>
   );
 }
 
